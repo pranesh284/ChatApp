@@ -13,7 +13,7 @@ public interface APIService {
     @Headers(
             {
                     "Content-Type:application/json",
-                    "Authorization:key=AAAAHecUoi8:APA91bGJ1mRVoj2qRx_DniMZ7FSu8IoJrzRV2PTLeQn98uCihZZstDsUoBAcSMGQduxBi7oXKhzhS3BIcEYZd-kGMgjYiRRAitipzIbhlDTi-oOji6ecUEL5FGATc22Fyexbc4Z3p04C"
+                    "Authorization:key=####" // get from google console
             }
     )
 
